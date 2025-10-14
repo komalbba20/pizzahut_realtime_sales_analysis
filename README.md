@@ -1,5 +1,8 @@
 # pizzahut_realtime_sales_analysis
 In this project we are going to find the solutions of the following questions.
+There are 4 files name order_details, orders, pizza_types, pizzas. All the file datasets are given in this repository.
+
+We are going to extract the following information from this dataset. here are the quesitons: 
 
 Basic:
 Retrieve the total number of orders placed.
